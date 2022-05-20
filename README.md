@@ -49,4 +49,4 @@ The first step computes a "count" matrix $C$. Each element, $c_{i,j}$, counts th
  
  $$ \begin{eqnarray} cos(x, y) & = & \frac{x \cdot y}{||x|| * ||y||} \end{eqnarray} $$
  
- Here we compute the cosine similarity by firstly finding the cosine simiarity between two given data arrays and then we add the 2n array to the stack of the first array so next time we can calculate the similarity using the entire previous data and the new data array in iteration.
+ Here we compute the cosine similarity by firstly finding the cosine simiarity between two given data arrays and then we add the second array to the stack of the first array so next time we can calculate the similarity using the entire previous data and the new data array in iteration.
