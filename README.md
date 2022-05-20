@@ -1,5 +1,5 @@
 # Numpy-and-Cosine-Operations
-A repo that implements some basic operations on numpy arrays and cosine distance in machine learning.
+A repo that implements some basic operations on numpy arrays and cosine similarity in machine learning.
 
  ## 1. Finding number of triangles in an undirected graph using Numpy operations
  The implementation of this problem as been done in the `Triangle_Count_Numpy.ipynb` file.
